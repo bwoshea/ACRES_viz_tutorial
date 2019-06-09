@@ -2,7 +2,7 @@
 
 ## Before class starts:
 
-1. Either install the Anaconda python distribution on your laptop (which you can find at [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/) ), or if you have a different version of Python on your laptop make sure that you have matplotlib, numpy, and Pandas installed!
+1. Either install the Anaconda python distribution on your laptop (which you can find at [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)), or if you have a different version of Python on your laptop make sure that you have matplotlib, numpy, and Pandas installed!
 
 2. After you've done #1, load up the Jupyter notebook  named "data\_vis\_pre\_session\_assignment.ipynb", which is in this directory.  Follow the instructions in there and try to make a simple plot of the data in the 'statistical' directory. For more information about both of the included datasets, see the end of this file!
 
