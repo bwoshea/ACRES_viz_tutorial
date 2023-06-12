@@ -2,11 +2,15 @@
 
 ## Before class starts:
 
-1. Either install the Anaconda python distribution on your laptop (which you can find at [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)), or if you have a different version of Python on your laptop make sure that you have matplotlib, numpy, and Pandas installed!
+1. Either install the Anaconda python distribution on your laptop (which you can find at [https://www.anaconda.com/](https://www.anaconda.com/)), or if you have a different version of Python on your laptop make sure that you have matplotlib, numpy, and Pandas installed.  Alternately, you can use OnDemand on ICER's clusters instead, which have Python distributions pre-installed.
 
-2. After you've done #1, load up the Jupyter notebook  named "data\_vis\_pre\_session\_assignment.ipynb", which is in this directory.  Follow the instructions in there and try to make a simple plot of the data in the 'statistical' directory. For more information about both of the included datasets, see the end of this file!
+2. Clone this repository to whatever computer you will be doing the analysis and visualization on during the workshop (i.e., your laptop or the ICER cluster).
 
-3. Find two examples of visualizations of scientific data from the papers that you've been reading for the REU (or some other academic source you're famililar with).  Identify one that you feel does a good job conveying the message the authors seem to intend to send, and one that doesn’t do a good job.  Send copies of those plots to me via email at [oshea@msu.edu](mailto:oshea@msu.edu), along with a paragraph or so for each one describing what the particular aspects of each plot are which you find effective or ineffective.  **Note:** no infographics, please!  The plots need to be presentations of data that is being analyzed for a scientific purpose.  If you're unclear on the distinction, check out [this blog post](https://blog.prototypr.io/getting-it-right-why-infographics-are-not-the-same-as-data-visualizations-a23da7de745e).
+3. After you've done #1, load up the Jupyter notebook  named "data\_vis\_pre\_session\_assignment.ipynb", which is in this directory.  Follow the instructions in there and try to make a simple plot of the data in the 'statistical' directory. For more information about both of the included datasets, see the end of this file!
+
+4. Find two examples of visualizations of scientific data from the papers that you've been reading for the REU (or some other academic source you're famililar with).  Identify one that you feel does a good job conveying the message the authors seem to intend to send, and one that doesn’t do a good job.  Send copies of those plots to me via email at [oshea@msu.edu](mailto:oshea@msu.edu), along with a paragraph or so for each one describing what the particular aspects of each plot are which you find effective or ineffective.  **Note:** no infographics, please!  The plots need to be presentations of data that is being analyzed for a scientific purpose.  If you're unclear on the distinction, check out [this blog post](https://blog.prototypr.io/getting-it-right-why-infographics-are-not-the-same-as-data-visualizations-a23da7de745e).
+
+5. Take a look at the "visualization\_questions.pdf" document, which is in this directory.  Read the questions
 
 ## Useful visualization sites:
 
